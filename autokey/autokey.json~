@@ -1,0 +1,49 @@
+{
+    "folders": [
+        "/home/seith/app_luncher", 
+        "/home/seith/windows_mgmt", 
+        "/home/seith/is it still here"
+    ], 
+    "toggleServiceHotkey": {
+        "hotKey": "k", 
+        "modifiers": [
+            "<shift>", 
+            "<super>"
+        ], 
+        "enabled": true
+    }, 
+    "settings": {
+        "showTrayIcon": true, 
+        "sortByUsageCount": false, 
+        "scriptGlobals": {}, 
+        "undoUsingBackspace": true, 
+        "notificationIcon": "autokey-status", 
+        "enableQT4Workaround": false, 
+        "promptToSave": true, 
+        "menuTakesFocus": false, 
+        "interfaceType": "XRecord", 
+        "windowDefaultSize": [
+            682, 
+            716
+        ], 
+        "showToolbar": true, 
+        "serviceRunning": true, 
+        "columnWidths": [
+            150, 
+            50, 
+            100
+        ], 
+        "workAroundApps": ".*VirtualBox.*|krdc.Krdc", 
+        "hPanePosition": 172, 
+        "isFirstRun": true
+    }, 
+    "userCodeDir": null, 
+    "version": "0.90.4", 
+    "configHotkey": {
+        "hotKey": "k", 
+        "modifiers": [
+            "<super>"
+        ], 
+        "enabled": true
+    }
+}
