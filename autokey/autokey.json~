@@ -1,8 +1,7 @@
 {
     "folders": [
         "/home/seith/app_luncher", 
-        "/home/seith/windows_mgmt", 
-        "/home/seith/is it still here"
+        "/home/seith/windows_mgmt"
     ], 
     "toggleServiceHotkey": {
         "hotKey": "k", 

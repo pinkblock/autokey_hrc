@@ -1,8 +1,5 @@
 {
-    "usageCount": 3, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "Insert Date", 
+    "usageCount": 0, 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -11,18 +8,16 @@
         "backspace": true, 
         "triggerInside": false
     }, 
-    "hotkey": {
-        "hotKey": "q", 
-        "modifiers": [
-            "<meta>"
-        ]
-    }, 
     "modes": [], 
-    "showInTrayMenu": false, 
+    "title": "other_keys", 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "folder", 
+    "showInTrayMenu": false
 }

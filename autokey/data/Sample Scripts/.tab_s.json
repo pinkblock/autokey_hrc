@@ -1,8 +1,8 @@
 {
-    "usageCount": 3, 
+    "usageCount": 10, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Insert Date", 
+    "description": "tab_s", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -17,7 +17,9 @@
             "<meta>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 

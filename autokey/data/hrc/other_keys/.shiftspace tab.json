@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "is it still here", 
+    "description": "shift+space tab", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,11 +12,15 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": null, 
-        "modifiers": []
+        "hotKey": " ", 
+        "modifiers": [
+            "<shift>"
+        ]
     }, 
-    "modes": [], 
-    "showInTrayMenu": false, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": true, 
     "matchCase": false, 
     "filter": {
         "regex": null, 
