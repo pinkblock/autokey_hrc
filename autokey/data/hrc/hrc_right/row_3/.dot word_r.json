@@ -1,8 +1,8 @@
 {
-    "usageCount": 7, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": ". word_r", 
+    "description": "dot word_r", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
