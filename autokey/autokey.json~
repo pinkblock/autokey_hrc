@@ -16,7 +16,7 @@
         "sortByUsageCount": false, 
         "scriptGlobals": {}, 
         "undoUsingBackspace": true, 
-        "notificationIcon": "autokey-status-dark", 
+        "notificationIcon": "autokey-status", 
         "enableQT4Workaround": false, 
         "promptToSave": false, 
         "menuTakesFocus": false, 
@@ -33,7 +33,7 @@
             100
         ], 
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc", 
-        "hPanePosition": 169, 
+        "hPanePosition": 207, 
         "isFirstRun": true
     }, 
     "userCodeDir": null, 
