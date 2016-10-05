@@ -1,5 +1,5 @@
 {
-    "usageCount": 918, 
+    "usageCount": 1166, 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -8,9 +8,7 @@
         "backspace": true, 
         "triggerInside": false
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "title": "hrc", 
     "hotkey": {
         "hotKey": "<f7>", 
